@@ -11,6 +11,10 @@
     transition: 0.2s;
 }
 
+.card:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
 .image {
     flex: 0 0 150px;
     display: flex;
