@@ -1,0 +1,756 @@
+[
+    {
+        "timestamp": 1683901637385,
+        "track": {
+            "album": {
+                "name": "Bu Devirde",
+                "uri": "spotify:album:0cPDRCMFqgs0CFVaUyxCGt"
+            },
+            "artist": {
+                "name": "Sibel Can",
+                "uri": "spotify:artist:2IiSMrjpXiteqhISWXkdUG"
+            },
+            "context": {
+                "index": 0,
+                "name": "CHP iktidara geldiğinde dinlenecek şarkılar 🇹🇷❤️",
+                "uri": "spotify:playlist:5inwZ2ftMQfvJqicgLH26h"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b27378978050aa78ce05fac4c36c",
+            "name": "Padişah",
+            "uri": "spotify:track:7859Rvo6wXeImidBRL2dUZ"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82ccadb2185083a8533bd411f7",
+            "name": "Ceren Yarol",
+            "uri": "spotify:user:uykusuzz."
+        }
+    },
+    {
+        "timestamp": 1683901566293,
+        "track": {
+            "album": {
+                "name": "My 21st Century Blues",
+                "uri": "spotify:album:3U8n8LzBx2o9gYXvvNq4uH"
+            },
+            "artist": {
+                "name": "RAYE",
+                "uri": "spotify:artist:5KKpBU5eC2tJDzf0wmlRp2"
+            },
+            "context": {
+                "index": 0,
+                "name": "My 21st Century Blues",
+                "uri": "spotify:album:3U8n8LzBx2o9gYXvvNq4uH"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f",
+            "name": "Black Mascara.",
+            "uri": "spotify:track:3yM4sIOrG4UOJve2fQU7Zc"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82abe28fe891e2a0df6379194e",
+            "name": "irmo 🦋",
+            "uri": "spotify:user:deltangel"
+        }
+    },
+    {
+        "timestamp": 1683901499305,
+        "track": {
+            "album": {
+                "name": "Benim Ol Dedin",
+                "uri": "spotify:album:1KPjtN1cFcW0zcJrU4AC2w"
+            },
+            "artist": {
+                "name": "Barış Kocatürk",
+                "uri": "spotify:artist:69pUCqegpsMQA4IeuuPUvB"
+            },
+            "context": {
+                "index": 0,
+                "name": "kalabalık",
+                "uri": "spotify:playlist:2qtzLhaPYAnCMVGQVeXCm6"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b2738c7748f34a9f20ba8f3b808a",
+            "name": "Benim Ol Dedin",
+            "uri": "spotify:track:0LelyplNfe4Cov062SpI0i"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82d05d7a598de1aad476282c74",
+            "name": "Sude Aslan",
+            "uri": "spotify:user:11178528083"
+        }
+    },
+    {
+        "timestamp": 1683901468195,
+        "track": {
+            "album": {
+                "name": "Ahead Of Myself",
+                "uri": "spotify:album:2fegGpMdK0zuaBEHGFdYdf"
+            },
+            "artist": {
+                "name": "X Ambassadors",
+                "uri": "spotify:artist:3NPpFNZtSTHheNBaWC82rB"
+            },
+            "context": {
+                "index": 0,
+                "name": "Ahead Of Myself",
+                "uri": "spotify:album:2fegGpMdK0zuaBEHGFdYdf"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b2730ae84607b7a983b6b8fff3cf",
+            "name": "Ahead Of Myself",
+            "uri": "spotify:track:5KrEN8aGZnvS2UU6molPFs"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b8277bb7fe0603f453262caf62e",
+            "name": "Bilal Yalova",
+            "uri": "spotify:user:31j2aqa65bsmejle2fdrjcrob754"
+        }
+    },
+    {
+        "timestamp": 1683901367335,
+        "track": {
+            "album": {
+                "name": "The End Is Nigh but the Night Is Young",
+                "uri": "spotify:album:1k7E1qBqt6RnJTXxPqEIi9"
+            },
+            "artist": {
+                "name": "Strangers On A Train",
+                "uri": "spotify:artist:4uN4P1atBu8E2h1L5OsyO5"
+            },
+            "context": {
+                "index": 0,
+                "name": "Dream is Destiny",
+                "uri": "spotify:playlist:03Km7GeJDnLuaqdSvFKKKF"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b27312edf8f35bdaaf161e3b2652",
+            "name": "Lost Her to Wolves",
+            "uri": "spotify:track:71PTdodZqZ7iVPkKzbvwAE"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b820dab121227f67e331707a253",
+            "name": "abdullah",
+            "uri": "spotify:user:21nhdzbyrit6vt4opjyxwmzdq"
+        }
+    },
+    {
+        "timestamp": 1683901098579,
+        "track": {
+            "album": {
+                "name": "Sounds Good Feels Good (Deluxe)",
+                "uri": "spotify:album:43v9cUsP5K0hvu9iyuAzmZ"
+            },
+            "artist": {
+                "name": "5 Seconds of Summer",
+                "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
+            },
+            "context": {
+                "index": 0,
+                "name": "5sos complete",
+                "uri": "spotify:playlist:52NEzmebrLg0tvj3f91ckZ"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b273a7cb3e00ac2f3a1bf8679fef",
+            "name": "Permanent Vacation",
+            "uri": "spotify:track:691NxyycrqSWH5vZ19Jzm2"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82639e564a0ef59388857cdac5",
+            "name": "dila<3",
+            "uri": "spotify:user:dilacekin7"
+        }
+    },
+    {
+        "timestamp": 1683901001312,
+        "track": {
+            "album": {
+                "name": "Yalnızlığın Çaresini Bulmuşlar",
+                "uri": "spotify:album:1MUwwfvi3oj5FxKLc6VnSO"
+            },
+            "artist": {
+                "name": "Gripin",
+                "uri": "spotify:artist:3Z814BstLaKbLqKHXsht8O"
+            },
+            "context": {
+                "index": 0,
+                "name": "alert(\"serseri\")  | ✨️📌",
+                "uri": "spotify:playlist:0z2CGb4gMsM2fAVKneFNK9"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b2733bb4426ccba314d34d5445b4",
+            "name": "Vazgeçtim Ben Bugün",
+            "uri": "spotify:track:31KSA9U4SbUOlrjahunULK"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82ae83c8f0430dc29f1e823b4e",
+            "name": "selin pir",
+            "uri": "spotify:user:11165196513"
+        }
+    },
+    {
+        "timestamp": 1683896134836,
+        "track": {
+            "album": {
+                "name": "Ne Olursun",
+                "uri": "spotify:album:3pl5KxeOpkhP2RiHzt1oBt"
+            },
+            "artist": {
+                "name": "Jabbar",
+                "uri": "spotify:artist:7JrZbwBSIfKcc2gn1Xa4Bd"
+            },
+            "context": {
+                "index": 0,
+                "name": "Gidenlerden Radio",
+                "uri": "spotify:playlist:37i9dQZF1E8Pj6JkUHBlRR"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b273aeecb70acdc345e4af3149e2",
+            "name": "Ne Olursun",
+            "uri": "spotify:track:2asQBqjZSIiLTP0PRscBeY"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b828707274a30458e5901b02aa8",
+            "name": "betulovski",
+            "uri": "spotify:user:11162016709"
+        }
+    },
+    {
+        "timestamp": 1683894974414,
+        "track": {
+            "album": {
+                "name": "Toparlanmam Lazım",
+                "uri": "spotify:album:7cMKfAygL40oApyrkCrwmz"
+            },
+            "artist": {
+                "name": "Kerim Araz",
+                "uri": "spotify:artist:2xNgzwX6A9orF0QEJph5Eb"
+            },
+            "context": {
+                "index": 0,
+                "name": "Toparlanmam Lazım",
+                "uri": "spotify:album:7cMKfAygL40oApyrkCrwmz"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b2738f98ef3b4e4119fdc2ba7c72",
+            "name": "Toparlanmam Lazım",
+            "uri": "spotify:track:7tQzRtcodzeVr6n0DdVHCe"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b826c9a5db9fb7c5f2406b3b55c",
+            "name": "ftunc.47",
+            "uri": "spotify:user:baybarsteker18"
+        }
+    },
+    {
+        "timestamp": 1683894018319,
+        "track": {
+            "album": {
+                "name": "Handmade (Bonus Track Version)",
+                "uri": "spotify:album:6D8piOqptylpneNaEcBiaM"
+            },
+            "artist": {
+                "name": "Hindi Zahra",
+                "uri": "spotify:artist:6QncudMSOiKxYRIKRDks6S"
+            },
+            "context": {
+                "index": 0,
+                "name": "Handmade (Bonus Track Version)",
+                "uri": "spotify:album:6D8piOqptylpneNaEcBiaM"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b2739d326f8e3f6a1d8b31fa43f4",
+            "name": "Don't Forget - Unplugged",
+            "uri": "spotify:track:53L4DA7CX2Khz5tPBwG1yA"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82f0513e84d6b651b29c812173",
+            "name": "aliye",
+            "uri": "spotify:user:q6atveo9v71h9tbqp4ybdmb1o"
+        }
+    },
+    {
+        "timestamp": 1683891736192,
+        "track": {
+            "album": {
+                "name": "Haydi Bastır",
+                "uri": "spotify:album:48sB2dGvy9dG9KxZQc4iPE"
+            },
+            "artist": {
+                "name": "İsmail YK",
+                "uri": "spotify:artist:6BPzJMh8hXyURWbYwE2p1h"
+            },
+            "context": {
+                "index": 0,
+                "name": "akp bb",
+                "uri": "spotify:playlist:6RRrqc0eKDHnN5jeZ6WeTm"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b273cf7820dcc228a76f21b25f0f",
+            "name": "Kudur Baby",
+            "uri": "spotify:track:7G2ahmH7Ubb8dcSI3T3stL"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82075ee15676d42b421f56b7a0",
+            "name": "ilayda bayram",
+            "uri": "spotify:user:yaqhslgaqdn069rzlzshkqvcz"
+        }
+    },
+    {
+        "timestamp": 1683888900782,
+        "track": {
+            "album": {
+                "name": "Put Your Records On",
+                "uri": "spotify:album:6K7559pAYrNCJwsv1uIIK7"
+            },
+            "artist": {
+                "name": "Ritt Momney",
+                "uri": "spotify:artist:7MPGCB854Qo4alYMOPkBka"
+            },
+            "context": {
+                "index": 0,
+                "name": "Mood Booster",
+                "uri": "spotify:playlist:37i9dQZF1DX3rxVfibe1L0"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b273d52d8eb3be188231e120dbbd",
+            "name": "Put Your Records On",
+            "uri": "spotify:track:6AGOKlMZWLCaEJGnaROtF9"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b824285dd3691bb8c0f38751b61",
+            "name": "elif",
+            "uri": "spotify:user:eelifclk"
+        }
+    },
+    {
+        "timestamp": 1683888576661,
+        "track": {
+            "album": {
+                "name": "Sadem",
+                "uri": "spotify:album:2nq7X4ufE2q96VPjogs9fS"
+            },
+            "artist": {
+                "name": "Soner Sarıkabadayı",
+                "uri": "spotify:artist:4T83el9VQDI0zOyU9zcYNq"
+            },
+            "context": {
+                "index": 0,
+                "name": "Sadem",
+                "uri": "spotify:album:2nq7X4ufE2q96VPjogs9fS"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b2732b818de88cab21f7e13ca83b",
+            "name": "Pas",
+            "uri": "spotify:track:40jk03i5CsaliBnNmrqxTt"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b824f30b6de9dad62e302e20d7a",
+            "name": "emine",
+            "uri": "spotify:user:ncwgb7pwvd6giar6dnf4iodou"
+        }
+    },
+    {
+        "timestamp": 1683888462353,
+        "track": {
+            "album": {
+                "name": "Akustik Travma",
+                "uri": "spotify:album:0Erg7yjR99NFQcdh9rYMZU"
+            },
+            "artist": {
+                "name": "Yüzyüzeyken Konuşuruz",
+                "uri": "spotify:artist:7gobcoscOfsY0nOeqqFzvU"
+            },
+            "context": {
+                "index": 0,
+                "name": "Eylül'e",
+                "uri": "spotify:playlist:59wxiNZOVFj6zxJkVhyJoC"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b2732de642b64eadaeff4697f156",
+            "name": "Bodrum",
+            "uri": "spotify:track:7DarbtpxRUG5POF3ifwu61"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b8291bcf619a5de78cf6058e3d3",
+            "name": "Eylül",
+            "uri": "spotify:user:f7b7qbncnxc1hkejj6d6ky8us"
+        }
+    },
+    {
+        "timestamp": 1683884269637,
+        "track": {
+            "album": {
+                "name": "Planet Her",
+                "uri": "spotify:album:1nAQbHeOWTfQzbOoFrvndW"
+            },
+            "artist": {
+                "name": "Doja Cat",
+                "uri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+            },
+            "context": {
+                "index": 0,
+                "name": "Planet Her",
+                "uri": "spotify:album:1nAQbHeOWTfQzbOoFrvndW"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b2734df3245f26298a1579ecc321",
+            "name": "Woman",
+            "uri": "spotify:track:6Uj1ctrBOjOas8xZXGqKk4"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b8249d9075ce65b76927c608888",
+            "name": "Aleyna",
+            "uri": "spotify:user:eawp0z8jhps9x2qulq7ut4mw3"
+        }
+    },
+    {
+        "timestamp": 1683881973847,
+        "track": {
+            "album": {
+                "name": "KYOTO/GEISHA",
+                "uri": "spotify:album:7xFfe4vRZ1xLcrRoTgit1W"
+            },
+            "artist": {
+                "name": "Şehinşah",
+                "uri": "spotify:artist:0FUsrstJwmg4WVHQMTYuUA"
+            },
+            "context": {
+                "index": 0,
+                "name": "KYOTO/GEISHA",
+                "uri": "spotify:album:7xFfe4vRZ1xLcrRoTgit1W"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b273a5b3c9b7b03d063238dd1ba4",
+            "name": "KYOTO/GEISHA",
+            "uri": "spotify:track:3YbEPt5omnMtMvvfIWllPd"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b8224f3bd3157c7d8df65443580",
+            "name": "sena",
+            "uri": "spotify:user:bbeyzase"
+        }
+    },
+    {
+        "timestamp": 1683847487589,
+        "track": {
+            "album": {
+                "name": "Eski Dünyanın Yangını",
+                "uri": "spotify:album:2tXaQrR5XcZsvk6IkHy4BF"
+            },
+            "artist": {
+                "name": "Kalben",
+                "uri": "spotify:artist:4sldxVDeyb0J8OMoYApqfV"
+            },
+            "context": {
+                "index": 0,
+                "name": "Tearjerker",
+                "uri": "spotify:playlist:7JY7CqMLfdCdTWCfNHjI05"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b2730ec9b7661e89936508e402dc",
+            "name": "Düşünürüm",
+            "uri": "spotify:track:53YGeh1axUhKgrJIpw8yuS"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b8276291bc536bb70b6100f8ba9",
+            "name": "iris",
+            "uri": "spotify:user:oc788lnt18qezsv6q2xeutzuh"
+        }
+    },
+    {
+        "timestamp": 1683845980232,
+        "track": {
+            "album": {
+                "name": "Parka",
+                "uri": "spotify:album:11ThcmSHtS3lC45XrZb5MH"
+            },
+            "artist": {
+                "name": "Cem Karaca",
+                "uri": "spotify:artist:1lIbZfJvMQRqzhtCQsg5EI"
+            },
+            "context": {
+                "index": 0,
+                "name": "14 mayıs’ı 15’ine bağlayan gece",
+                "uri": "spotify:playlist:3IwTHWjWg9yI7AfjdZh7Z0"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b2735dc8811f5a4f9e2d214f9a57",
+            "name": "Beni Siz Delirttiniz",
+            "uri": "spotify:track:0RqGX42FcmNPQlg7s2iOul"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b8285a7b3e178e30ab94f936f3f",
+            "name": "fatihnomore",
+            "uri": "spotify:user:fatihsagiroglu"
+        }
+    },
+    {
+        "timestamp": 1683840090715,
+        "track": {
+            "album": {
+                "name": "Sirenler",
+                "uri": "spotify:album:1bN6NwrpjgzYH01Fy5gagf"
+            },
+            "artist": {
+                "name": "mor ve ötesi",
+                "uri": "spotify:artist:5ixQSDvAMa5O758xG8MWXT"
+            },
+            "context": {
+                "index": 0,
+                "name": "Sirenler",
+                "uri": "spotify:album:1bN6NwrpjgzYH01Fy5gagf"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b273c749522e6390ff6cfe941033",
+            "name": "Park",
+            "uri": "spotify:track:59ovHac35yDra7qsGq8zlq"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82411385b1ef1f82869e616524",
+            "name": "Ekin",
+            "uri": "spotify:user:ekin0355"
+        }
+    },
+    {
+        "timestamp": 1683814026919,
+        "track": {
+            "album": {
+                "name": "A Boy Called Po (Original Motion Picture Soundtrack)",
+                "uri": "spotify:album:1AYyDqPAVCRN1NrLGP7ruX"
+            },
+            "artist": {
+                "name": "Burt Bacharach",
+                "uri": "spotify:artist:35y7CZMg7jbG8Q96JY7dyC"
+            },
+            "context": {
+                "index": 0,
+                "name": "Norwegian Wood - Murakami Haruki",
+                "uri": "spotify:playlist:43NDUNvCddG2GTXga57Msy"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b273669e9fd56164db59ed527156",
+            "name": "Close To You",
+            "uri": "spotify:track:0LJ6OaNSRZdSNzKVhGLLWn"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b8289d7da2d729582118512ae39",
+            "name": "irem ",
+            "uri": "spotify:user:adsqkr815w2sp1pz29gfmjo2o"
+        }
+    },
+    {
+        "timestamp": 1683810647201,
+        "track": {
+            "album": {
+                "name": "Olmazlara İnat",
+                "uri": "spotify:album:5IBpgY79AaRGIgAHFVr0fg"
+            },
+            "artist": {
+                "name": "Berkay Altunyay",
+                "uri": "spotify:artist:7DDrfx7EEOeHSZUkpTIn59"
+            },
+            "context": {
+                "index": 0,
+                "name": "Türkçe",
+                "uri": "spotify:playlist:3fvv63GSqMc2JmzYDgI16J"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b273d8484b79754c39d2ab2814b2",
+            "name": "Olmazlara İnat",
+            "uri": "spotify:track:11AkXmBdjwu4upt22GjJrG"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82c891ecadceb3a81d79b7431d",
+            "name": "Başak",
+            "uri": "spotify:user:21gjqedcdenpiodekfof336wq"
+        }
+    },
+    {
+        "timestamp": 1683790763992,
+        "track": {
+            "album": {
+                "name": "Face The Heat",
+                "uri": "spotify:album:1SkW9MEOK2qqY8bWTAu2Q0"
+            },
+            "artist": {
+                "name": "Scorpions",
+                "uri": "spotify:artist:27T030eWyCQRmDyuvr1kxY"
+            },
+            "context": {
+                "index": 0,
+                "name": "Face The Heat",
+                "uri": "spotify:album:1SkW9MEOK2qqY8bWTAu2Q0"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b27360d870f9c383739f761bcccb",
+            "name": "Lonely Nights",
+            "uri": "spotify:track:5tBP7sZbnIKLPsKIMrHhpa"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b829883c7679b3b8ab212f9a680",
+            "name": "Yağmur",
+            "uri": "spotify:user:0qmoh7xroq6hw7qrbdlwgllh6"
+        }
+    },
+    {
+        "timestamp": 1683788107743,
+        "track": {
+            "album": {
+                "name": "Rapstar",
+                "uri": "spotify:album:2rXqr1wMTX1ULlszIUT1lr"
+            },
+            "artist": {
+                "name": "Ceza",
+                "uri": "spotify:artist:28Qbi9jTj2eej21P2mImZI"
+            },
+            "context": {
+                "index": 0,
+                "name": "Rapstar",
+                "uri": "spotify:album:2rXqr1wMTX1ULlszIUT1lr"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b2732a07bf1912730d354453a4ca",
+            "name": "Neyim Var Ki (feat. Sagopa K)",
+            "uri": "spotify:track:09XOVDSIbBxBf6Kr1vGnHf"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b822d5b0f16c9c30a1308c3823a",
+            "name": "zehra",
+            "uri": "spotify:user:dincerzehra"
+        }
+    },
+    {
+        "timestamp": 1683717226315,
+        "track": {
+            "album": {
+                "name": "Social Cues",
+                "uri": "spotify:album:2VuZJsJBPLwg9BeQFQle8G"
+            },
+            "artist": {
+                "name": "Cage The Elephant",
+                "uri": "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
+            },
+            "context": {
+                "index": 0,
+                "name": "Durgun",
+                "uri": "spotify:playlist:4DgPmf2we2ViSnnVHn810c"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b27388883701231713b18429f80b",
+            "name": "Goodbye",
+            "uri": "spotify:track:50nZ2pvMssa7zcSI8ZgARe"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82540eaad000f75498d0ed2a9e",
+            "name": "Burake",
+            "uri": "spotify:user:u498oioj01kc8hvpb7h8h1lue"
+        }
+    },
+    {
+        "timestamp": 1683711491731,
+        "track": {
+            "album": {
+                "name": "Fırça",
+                "uri": "spotify:album:498hPTM0OdgEZVdqntJ1JA"
+            },
+            "artist": {
+                "name": "Zeynep Bastık",
+                "uri": "spotify:artist:1mpOD8ZwHnbsryIuXWq0R1"
+            },
+            "context": {
+                "index": 0,
+                "name": "This Is Zeynep Bastık",
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO0KjVwB"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b27360f480a8aa3962660f3ee020",
+            "name": "Fırça",
+            "uri": "spotify:track:3Vlfg0IreM7wVuZA0zoGDd"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b829d10dddb2c62518c34c94f29",
+            "name": "Feyza Bekdur",
+            "uri": "spotify:user:314khpqicpuwgtg22laxlqmxeiry"
+        }
+    },
+    {
+        "timestamp": 1683641622240,
+        "track": {
+            "album": {
+                "name": "Loud (Japan Version)",
+                "uri": "spotify:album:5QG3tjE5L9F6O2vCAPph38"
+            },
+            "artist": {
+                "name": "Rihanna",
+                "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
+            },
+            "context": {
+                "index": 0,
+                "name": "Club Dance Party Mix",
+                "uri": "spotify:playlist:37i9dQZF1EIh3pWPqiD1cL"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
+            "name": "S&M",
+            "uri": "spotify:track:7ySUcLPVX7KudhnmNcgY2D"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82e842d084faec8d4d8686f917",
+            "name": "crimson",
+            "uri": "spotify:user:lxk7vif2g5cwcj7ddsw9a4ovn"
+        }
+    },
+    {
+        "timestamp": 1683533118024,
+        "track": {
+            "album": {
+                "name": "Vesaire",
+                "uri": "spotify:album:2JJiQ6WXNbYH8jgC8UoIb1"
+            },
+            "artist": {
+                "name": "Son Feci Bisiklet",
+                "uri": "spotify:artist:4q2SZIdLq6YTc9cZLCclWc"
+            },
+            "context": {
+                "index": 0,
+                "name": "Son Feci Bisiklet",
+                "uri": "spotify:artist:4q2SZIdLq6YTc9cZLCclWc"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b273c05076c381ce3b5af1a0e802",
+            "name": "Ütopya",
+            "uri": "spotify:track:5TMj7EOCOjAaM2S1KlCJC9"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82a7f0f0dd7fd872613965c2d8",
+            "name": "Destinaaydemir",
+            "uri": "spotify:user:6rbnrokyv3mu8j9emnnkfja92"
+        }
+    },
+    {
+        "timestamp": 1683310568649,
+        "track": {
+            "album": {
+                "name": "Dünya Yalan Söylüyor",
+                "uri": "spotify:album:0QbpgPjg5eOU5ltJ05r4V7"
+            },
+            "artist": {
+                "name": "mor ve ötesi",
+                "uri": "spotify:artist:5ixQSDvAMa5O758xG8MWXT"
+            },
+            "context": {
+                "index": 0,
+                "name": "Dünya Yalan Söylüyor",
+                "uri": "spotify:album:0QbpgPjg5eOU5ltJ05r4V7"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b27361cd6f5ad7c69b76adbc5419",
+            "name": "Aşk İçinde",
+            "uri": "spotify:track:5O3zj7zm9PtGH6KS4qGJRQ"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82579caa2e4235c0dbcaec891a",
+            "name": "Eylül",
+            "uri": "spotify:user:21q6lk7zbuvja7kzhgwpcxkxy"
+        }
+    },
+    {
+        "timestamp": 1683298280694,
+        "track": {
+            "album": {
+                "name": "Meimuna",
+                "uri": "spotify:album:3otslw40aNcMbgzLxRWXmR"
+            },
+            "artist": {
+                "name": "Meimuna",
+                "uri": "spotify:artist:4ZmCGYGmgeBz6pxlpkgBXS"
+            },
+            "context": {
+                "index": 0,
+                "name": "Meimuna",
+                "uri": "spotify:album:3otslw40aNcMbgzLxRWXmR"
+            },
+            "imageUrl": "http://i.scdn.co/image/ab67616d0000b273f29ecce6b632b41794428194",
+            "name": "La tristesse du diable",
+            "uri": "spotify:track:2Wm9L8AVKOjGpwI3rb6sZF"
+        },
+        "user": {
+            "imageUrl": "https://i.scdn.co/image/ab67757000003b82cd293808b372888a15d5ff98",
+            "name": "cicikuş",
+            "uri": "spotify:user:fr67zglw0fbwljkjc7uc3gv8c"
+        }
+    }
+]
