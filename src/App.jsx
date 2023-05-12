@@ -40,12 +40,14 @@ function App() {
                         onClick={async () => {
                             const accessToken = (await getAccessToken(cookie))["accessToken"];
                             setAccessToken(accessToken);
+                            const friendActivity = await getFriendActivity(accessToken);
+                            setFriendActivity(friendActivity);
                         }}
                     >
-                        Get Access Token
+                        Get Friend Activity
                     </button>
                 </div>
-                <div className="formGroup">
+                {/* <div className="formGroup">
                     <label htmlFor="accessToken">Access Token</label>
                     <input
                         type="text"
@@ -68,7 +70,7 @@ function App() {
                     >
                         Get Friend Activity
                     </button>
-                </div>
+                </div> */}
                 <div className="cards">
                     {friendActivity.map((i) => {
                         return <Card key={i.timestamp} props={i} />;
