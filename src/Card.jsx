@@ -17,11 +17,31 @@ function formatTimestamp(timestamp) {
     return formattedString;
 }
 
+function relativeDate(timestamp) {
+    const date = new Date(timestamp);
+    const now = new Date();
+    const diff = now - date;
+    const seconds = Math.floor(diff / 1000);
+    const minutes = Math.floor(seconds / 60);
+    const hours = Math.floor(minutes / 60);
+    const days = Math.floor(hours / 24);
+
+    if (days > 0) {
+        return `${days} days ago`;
+    } else if (hours > 0) {
+        return `${hours} hours ago`;
+    } else if (minutes > 0) {
+        return `${minutes} minutes ago`;
+    } else {
+        return `${seconds} seconds ago`;
+    }
+}
+
 function Card({ props }) {
     return (
         <div className="card">
             <div className="image">
-                <img src={props.user.imageUrl} alt={props.user.name} />
+                <img src={props.user.imageUrl.replace("3b82", "ee85")} alt={props.user.name} />
             </div>
             <div className="content">
                 <div className="username">
@@ -34,16 +54,16 @@ function Card({ props }) {
                             {props.track.name}
                         </p>
                     </div>
-                    <div className="albumName">
-                        <p>
-                            <BiAlbum className="icon" />
-                            {props.track.album.name}
-                        </p>
-                    </div>
                     <div className="artistName">
                         <p>
                             <RiGroupFill className="icon" />
                             {props.track.artist.name}
+                        </p>
+                    </div>
+                    <div className="albumName">
+                        <p>
+                            <BiAlbum className="icon" />
+                            {props.track.album.name}
                         </p>
                     </div>
                     <div className="context">
@@ -56,7 +76,7 @@ function Card({ props }) {
                 <div className="timestamp">
                     <p>
                         <AiFillClockCircle className="icon" />
-                        {formatTimestamp(props.timestamp)}
+                        {formatTimestamp(props.timestamp)} ({relativeDate(props.timestamp)})
                     </p>
                 </div>
             </div>
