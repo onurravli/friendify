@@ -75,7 +75,7 @@ function Card({ props }) {
                 </div>
                 <div className="timestamp">
                     <p>
-                        <AiFillClockCircle className="icon" />
+                        {/* <AiFillClockCircle className="icon" /> */}
                         {formatTimestamp(props.timestamp)} ({relativeDate(props.timestamp)})
                     </p>
                 </div>

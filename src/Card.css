@@ -14,13 +14,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0 10px 0 10px;
+    margin: 0 10px 0 20px;
 }
 
 .image img {
-    width: 100px;
-    height: 100px;
+    width: 125px;
+    height: 125px;
     border-radius: 50%;
+    object-fit: cover;
 }
 
 .content {
@@ -43,9 +44,11 @@
 .artistName p,
 .context p {
     display: flex;
+    flex-direction: row;
     align-items: center;
     font-size: 14px;
     margin: 8px 0;
+    vertical-align: middle;
 }
 
 .icon {

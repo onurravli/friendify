@@ -47,30 +47,6 @@ function App() {
                         Get Friend Activity
                     </button>
                 </div>
-                {/* <div className="formGroup">
-                    <label htmlFor="accessToken">Access Token</label>
-                    <input
-                        type="text"
-                        id="accessToken"
-                        className="accessToken"
-                        value={accessToken}
-                        readOnly
-                    />
-                </div>
-                <div className="formGroup">
-                    <button
-                        type="button"
-                        className="btn"
-                        onClick={() => {
-                            getFriendActivity(accessToken).then((res) => {
-                                setFriendActivity(res);
-                                console.log(res);
-                            });
-                        }}
-                    >
-                        Get Friend Activity
-                    </button>
-                </div> */}
                 <div className="cards">
                     {friendActivity.map((i) => {
                         return <Card key={i.timestamp} props={i} />;
