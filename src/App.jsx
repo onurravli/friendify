@@ -4,15 +4,27 @@ import axios from "axios";
 import Card from "./Card";
 
 async function getAccessToken(cookie) {
-    const res = await axios.get(`https://friendify-api.vercel.app/get_access_token/${cookie}`);
-    return res.data;
+    try {
+        const res = await axios.get(`https://friendify-api.vercel.app/get_access_token/${cookie}`);
+        console.log("Access token has been retrieved successfully.")
+        return res.data;
+    } catch {
+        console.log("An error occurred while getting access token.");
+        exit();
+    }
 }
 
 async function getFriendActivity(accessToken) {
-    const res = await axios.get(
-        `https://friendify-api.vercel.app/get_friend_activity/${accessToken}`
-    );
-    return res.data.friends.reverse();
+    try {
+        const res = await axios.get(
+            `https://friendify-api.vercel.app/get_friend_activity/${accessToken}`
+        );
+        console.log("Friend activity has been retrieved successfully.")
+        return res.data.friends.reverse();
+    } catch {
+        console.log("An error occurred while getting friend activity.");
+        exit();
+    }
 }
 
 function App() {
